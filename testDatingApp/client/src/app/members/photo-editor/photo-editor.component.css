@@ -1,0 +1,15 @@
+.nv-file-over {
+    border: dotted 3px red;
+}
+
+.progress-bar {
+    transition: width 0.5s ease-in-out;
+}
+
+.photo-container {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+
+.photo-buttons {
+    margin-top: 5px; /* Adjust the value as needed */
+}
